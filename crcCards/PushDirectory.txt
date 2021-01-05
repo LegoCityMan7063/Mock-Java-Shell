@@ -1,0 +1,12 @@
+Class name: PushDirectory
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): 
+
+Responsibilities: 
+*Pushes current working directory onto directory stack and then changes current
+working directory to a given directory
+
+Collaborators: 
+*Directory
+*DirectoryStack
+*Path

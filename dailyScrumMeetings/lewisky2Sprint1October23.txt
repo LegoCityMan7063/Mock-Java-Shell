@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - worked on JShell and basis of command class
+    - Helped brainstorm ideas and create crcCards for majority of classes
+
+What do I plan to work in the next three days?
+    - finish JShell, and command and exit class
+    - work on new tasks for sprint 2
+
+Am I blocked on anything?
+    - Need inputParser, Output, and errorHandling completed (or at least prototyped) before I can continue working

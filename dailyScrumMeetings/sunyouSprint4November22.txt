@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - review search and tree command
+    - add search, tree CRC, description
+
+What do I plan to work in the next three days?
+    - Further testing
+
+Am I blocked on anything?
+    -

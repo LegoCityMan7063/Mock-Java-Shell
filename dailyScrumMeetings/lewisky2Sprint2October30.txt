@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - worked on StackDirectory (pushd and popd commands)
+    - worked on man command
+
+What do I plan to work in the next three days?
+    - fully implement man and StackDirectory
+
+Am I blocked on anything?
+    - need cd command finished before i can implement pushd

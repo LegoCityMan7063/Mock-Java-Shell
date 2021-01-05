@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+     - Fixed bugs in Echo and Cat
+
+What do I plan to work in the next three days?
+    - Continue finding and fixing bugs in Echo and Cat
+    - Consider revising error handling in Echo
+    - Review CRC cards and make sure they match our implementation
+    
+
+Am I blocked on anything?
+    - No

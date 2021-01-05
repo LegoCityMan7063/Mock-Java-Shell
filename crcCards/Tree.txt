@@ -1,0 +1,13 @@
+Class name: Tree
+Parent class (if any): Command
+Subclasses (if any): None
+
+Responsibilities:
+*Print the entire file system from root
+
+Collaborators:
+*Directory
+*File
+*Path
+*Output
+*FileSystem

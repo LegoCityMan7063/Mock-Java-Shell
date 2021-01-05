@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - updated man
+    - updated mkdir
+    - implemented rm
+
+What do I plan to work in the next three days?
+    - aid others in their tasks
+    - general bugfixing
+
+Am I blocked on anything?
+    - nothing

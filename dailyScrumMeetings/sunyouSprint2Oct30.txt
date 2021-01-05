@@ -1,0 +1,9 @@
+hat did I work on in the last three days?
+    - Working on search algorithm in Path, as to create the ability to search for specific path
+
+What do I plan to work in the next three days?
+    - Rewrite search path algorithm to be more readable
+    - With the search algorithm perfected, I will then work on mkdir to make it more versatile
+
+Am I blocked on anything?
+    - Currently coming up with an iterative method of searching, may require time

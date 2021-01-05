@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+     - Created Command and ErrorHandler interfaces 
+     - Modified all existing commands to be compatible with the interfaces 
+     - Worked on implementing the Cat and Echo commands
+
+What do I plan to work in the next three days?
+    - Continue reviewing the CRC cards to make sure they align with the implemented design and discuss with team if any design changes should be made 
+    - Finish up the Cat command
+    - Finish up the Echo command
+
+Am I blocked on anything?
+    - No

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Working on how to test in Eclipse environment
+    - Directory.create overload with the option to pass in a Path object
+    - Debug Path function to see how to get proper output
+
+What do I plan to work in the next three days?
+    - Contribute to other command classes with my knowledge in Entity classes
+
+Am I blocked on anything?
+    -

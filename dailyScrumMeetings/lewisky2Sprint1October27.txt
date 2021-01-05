@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - worked on JShell more
+    - implemented command and exit class
+
+What do I plan to work in the next three days?
+    - Get more commands and crcCards done
+
+Am I blocked on anything?
+    - Want to ensure command class is good for everyone before continuing

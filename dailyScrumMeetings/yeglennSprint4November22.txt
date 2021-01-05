@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+     - Implemented the mv command
+     - Added CRC cards for Copy and Move
+
+What do I plan to work in the next three days?
+    - Enhance command compatibility with output redirection
+    - Update CRC cards
+    - Test Echo
+    - Test Copy
+    - Test Move
+    - Test Cat
+    - Test output-related classes where applicable
+    
+
+Am I blocked on anything?
+    - No

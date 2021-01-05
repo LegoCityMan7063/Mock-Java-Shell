@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Discussed CRC cards with teammates
+
+
+What do I plan to work in the next three days?
+    - Implement InputParser class
+    - Refine CRC cards
+    - Implement Output Class
+
+Am I blocked on anything?
+    - No!

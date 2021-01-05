@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Test cases for commands
+    - Made Ls recursive
+
+What do I plan to work in the next three days?
+    - more test cases and general bugfixing
+    - help with work they're stuck on
+
+Am I blocked on anything?
+    - nothing

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Added to InputParser
+    -Finalized Output class
+
+What do I plan to work in the next three days?
+    - Modify ErrorHandler more
+    - Redo History class to work with Reflections
+    -Refine some of the interfaces, like command and error handling
+
+Am I blocked on anything?
+    - No

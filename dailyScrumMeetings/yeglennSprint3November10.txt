@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+     - General bug fixing, especially for Echo.
+     - Made output redirection for Echo its own class.
+     - Updated CRC cards 
+     - Added comments to code 
+
+What do I plan to work in the next three days?
+    - N/A
+    
+
+Am I blocked on anything?
+    - No

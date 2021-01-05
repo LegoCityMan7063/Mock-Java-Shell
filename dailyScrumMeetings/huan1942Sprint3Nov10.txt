@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Modified ErrorHandler
+    -Reworked Manual and History to work with reflections
+    -Modified Command interface
+    -Bug fixes
+
+What do I plan to work in the next three days?
+    - Nothing!
+Am I blocked on anything?
+    - No

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+     - Test Tree
+     - Test Search
+     - Test Path
+     - Test File
+
+What do I plan to work in the next three days?
+    - Test Directory
+    - Add more test cases
+
+Am I blocked on anything?
+    - No

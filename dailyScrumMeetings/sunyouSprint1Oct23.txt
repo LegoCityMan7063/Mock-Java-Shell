@@ -1,0 +1,11 @@
+hat did I work on in the last three days?
+    - Worked on CRC Cards design with groupmates 
+    - Worked on Path, File, Directory classes to build upon 
+
+What do I plan to work in the next three days?
+    - Consider and develop additional methods that may be used for Path, File, Dir class
+    - Add documentation for Path, File, Dir classes
+    - Work on commands after discussing what need to be done next with groupmates
+
+Am I blocked on anything?
+    - 

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+     - Test Directory
+     - Help test InputParser
+     - Help debug load/saveJShell
+
+What do I plan to work in the next three days?
+    - Review for final
+
+Am I blocked on anything?
+    - No

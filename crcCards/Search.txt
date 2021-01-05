@@ -1,0 +1,14 @@
+Class name: Search
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities:
+*Search for paths with specific name under specific directory
+
+Collaborators:
+*Directory
+*File
+*Path
+*Output
+*Arrays
+*ArrayList

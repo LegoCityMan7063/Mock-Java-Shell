@@ -1,0 +1,10 @@
+hat did I work on in the last three days?
+    - Debugged methods in entity classes
+    - Manually tested entity classes, making sure methods are behaving as wanted
+
+What do I plan to work in the next three days?
+    - Work on commands mkdir, pwd, and history
+    - See if there are needs to update entity classes as develop
+
+Am I blocked on anything?
+    -

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Implement the History class
+    - Helped Implement MakeDirectory
+   
+
+
+What do I plan to work in the next three days?
+    - Modify the History class
+    - Modify Output Class
+    - Modify ErrorHandler as needed
+
+Am I blocked on anything?
+    - Need to discuss I/O with teammates.

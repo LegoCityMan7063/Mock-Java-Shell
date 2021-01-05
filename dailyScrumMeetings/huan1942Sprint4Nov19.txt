@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    -Implemented Client URL command
+    -Implemented SaveJShell command (broken)
+    -Implemented LoadJShell command (broken)
+    -Added reflections for inputValidator class
+What do I plan to work in the next three days?
+    - Fix SaveJShell and loadJShell so that they are not broken
+    -Test Client Url command
+    -Test SaveJShell and LoadJShell when completed.
+Am I blocked on anything?
+    - No

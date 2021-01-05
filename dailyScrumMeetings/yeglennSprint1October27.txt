@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - worked on and finished making the CRC cards
+    - Implemented a working but probably not finalized InputValidater(ErrorHandling) class
+
+What do I plan to work in the next three days?
+    - Continue reviewing the CRC cards to make sure they align with the implemented design and discuss with team if any design changes should be made 
+    - Review InputValidater class to see if any changes need to be made
+    - Implement the Cat command
+    - Implement the Echo command
+
+Am I blocked on anything?
+    - No!

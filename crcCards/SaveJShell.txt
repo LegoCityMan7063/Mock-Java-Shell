@@ -1,0 +1,11 @@
+Class name: SaveJShell
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Saves the state of the shell to a file
+
+Collaborators:
+*FileSystem
+*Output
+*Directory

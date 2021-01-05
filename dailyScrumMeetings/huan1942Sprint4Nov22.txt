@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    -Figured out the issues causing SaveJShell to break
+What do I plan to work in the next three days?
+    - Fix SaveJShell and loadJShell so that they are not broken
+    -Test Client Url command
+    -Test SaveJShell and LoadJShell when completed.
+Am I blocked on anything?
+    - No

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - A lot of bug fixes
+    - Add comment for Path objects
+
+What do I plan to work in the next three days?
+    - Extensive bug fixes, testing and refactoring
+
+Am I blocked on anything?
+    -

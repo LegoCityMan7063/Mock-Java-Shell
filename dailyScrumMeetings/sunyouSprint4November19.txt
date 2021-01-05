@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Add search and tree command
+    - found potential bug in mkdir
+
+What do I plan to work in the next three days?
+    - Extensive testing
+
+Am I blocked on anything?
+    -

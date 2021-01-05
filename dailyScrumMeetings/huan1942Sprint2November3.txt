@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Redesigned JShell driver
+    - Added an Argument interface
+    - Modified Output Class
+
+
+What do I plan to work in the next three days?
+    - Remodify Output class because there are so many issues :c
+    - Add to InputParser
+    - Modify ErrorHandler more
+    - Redo History class to work with Reflections
+
+Am I blocked on anything?
+    - Need to have entity classes finalized to connect to Jshell and Output correctly

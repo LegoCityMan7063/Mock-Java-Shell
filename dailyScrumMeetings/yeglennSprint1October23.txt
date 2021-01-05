@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - worked on CRC cards with group
+    - worked on sprint backlog with group
+    - worked on product backlog with group
+    
+
+What do I plan to work in the next three days?
+    - implement the ErrorHandling class
+    - create CRC cards for the rest of the commands
+
+Am I blocked on anything?
+    - Need Output class finished in order to implement ErrorHandling class, according to current design plan

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Made man more effcient
+
+What do I plan to work in the next three days?
+    - implement cd and integrate it with Stackdirectory so StackDirectory can be finished
+
+Am I blocked on anything?
+    - need to fully understand how searching for paths work

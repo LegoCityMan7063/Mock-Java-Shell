@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Reworked Entity classes
+    - Implemented search algorithm in directory
+
+What do I plan to work in the next three days?
+    - Need extensive Path testing to ensure the path returned for search, and path created are correct
+
+Am I blocked on anything?
+    -

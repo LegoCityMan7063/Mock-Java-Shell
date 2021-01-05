@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+    - Tested Echo
+    - Tested Copy
+    - Tested Move
+    - Tested Cat
+    - Tested Output
+    - Tested OutputRedirection
+    - Fixed bugs in cp
+    - Fixed bugs in mv
+    - Fixed bugs in echo
+    - Added missing CRC cards
+
+What do I plan to work in the next three days?
+	- N/A
+    
+
+Am I blocked on anything?
+    - No

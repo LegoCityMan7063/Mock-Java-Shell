@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Implemented InputParser
+    - Implemented Output
+    - Added to InputValidator
+    - Added ErrorHandler
+
+
+What do I plan to work in the next three days?
+    - Implement the History class
+    - Add to InputParser
+    - Implement MakeDirectory
+    - Modify ErrorHandler as needed
+
+Am I blocked on anything?
+    - No!

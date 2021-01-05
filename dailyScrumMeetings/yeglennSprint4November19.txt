@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+     - Implemented the cp command
+     - Fixed cp bugs 
+
+What do I plan to work in the next three days?
+    - Implement mv command
+    - Enhance command compatibility with output redirection
+    - Update CRC cards
+    
+
+Am I blocked on anything?
+    - No

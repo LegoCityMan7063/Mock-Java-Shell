@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - bug fixing
+    -singleton design on file system
+    -accounting for more errors
+    -migrated crc cards from google doc
+
+What do I plan to work in the next three days?
+    - nothing (project done)
+
+Am I blocked on anything?
+    - nothing
