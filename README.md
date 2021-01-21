@@ -1,6 +1,6 @@
 # Mock-Java-Shell
- This is Assignment 2A and 2B for the CSCB07: Software Design course, taken in Fall 2020.
- The assignment involves creating a mock Unix shell in Java.  
+ This is the major group project for the CSCB07: Software Design course, taken in Fall 2020.
+ The project involves creating a mock Unix shell in Java.  
  
  The version control used for this project was originally SVN. 
  
