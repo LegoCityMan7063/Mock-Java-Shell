@@ -7,5 +7,5 @@
  This is a four-member project. The members are:  
  - Mark https://github.com/Lemonsity
  - Carlos https://github.com/thermal-ice
- - Kyle 
+ - Kyle https://github.com/Mall0-w
  - Glenn (me)
